@@ -26,61 +26,78 @@ Make some additional notes below about each machine as you go: What’s the most
 ==================================================================================================================
 KAYPRO 4
 
-•	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+•	What year was it made? 1984
+•	What operating system does it run? CP/M2.2
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).  
+In 1984, the Kaypro cost $3,500 and today, adjusted for inflation, would cost about $8,112.95. Finding a Kaypro 4 on eBay and Craigslist was pretty difficult—I was able to find one for sale and it was relatively cheap at $160 (though shipping cost $82.16 and it’s missing a keyboard cable). 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Kaypro 4 and its predecessor, the Kaypro II, were known for being portable when they were first introduced. The Kaypro 4 had some major improvements on the Kaypro II including two double-sided disk drives that allowed for files to be copied from one disk to another. The Kaypro IV and Kaypro 4 (released within a year of each other, but slightly different models) also came bundled with WordStar, SuperCalc, and Microsoft Basic, among others. As opposed to Kaypro IV, however, the Kaypro 4 came with a 4 MHZ clock speed and very basic graphic abilities. The portability, word-processing, mail merging, and file saving/copying capabilities, coupled with a larger monitor than it’s leading competitors made the Kaypro a popular brand for businesses. However, there were disadvantages and weaknesses—there was little documentation for the Kaypro and the Kaypro 4, which came with a built in modem, was a little more expensive than the other models like the Kaypro II that had been more successful. 
 
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
+Notes: Turning on the Kaypro is kind of nice because it’s just a gigantic switch—it’s very intuitive. Nothing else about the Kaypro is intuitive though. The command line script given by the keyboard was not very helpful for actually getting the Kaypro to run. The most notable differences are: having to rely on command line to make anything happen and having to insert a disk every time you want software to run. Just the time it takes for the WordStar screen to load (after finally figuring out how to get it to run) was slightly annoying. Though, this computer did make me feel much more in control of my experience—in a way that was frustrating at first, but when I got the hang of using WordStar it was more gratifying too. I felt more knowledgable and thought more about the processes that needed to happen for the program to run. 
+Though, I cannot get used to not having a cursor and trying to use the arrow keys in WordStar and not having them work intuitively. Also, after playing around in WordStar, I realized an interesting difference that “opening” a file and a creating a “new” file were combined into one function—that made sense to me and seemed to save space and was in a way very intuitive once I really thought about it.  
 
 ===================================================================================================================
 APPLE IIe
 
-•	What year was it made? 
-•	What operating system does it run? 
+•	What year was it made? 1983
+•	What operating system does it run? ProDOS
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+When it first came out the Apple IIe was relatively inexpensive at $1395, adjusted for inflation today that would be about $3332.66. The Apple IIe was much easier to find online: eBay had several for sale (at least 8 models in working condition) from prices ranging from around $250 dollars for a working but heavily used model to $8,995.00 for a model brand new in box and never touched. Craiglist only had one model for sale, but the price was $250 or best offer, and the seller was willing to trade. 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Apple IIe was a lower cost computer model that was highly adaptable. This particular model was sold for over a decade, which is a testament to its extensive features and add-ons, as well as its capability to stay relevant for the general public (as opposed to Kaypros that were geared towards offices, for example). The advantages of this particular model included added four way cursor control and the addition of delete and tab to the keyboard. There was also helpful documentation for first time users (as we saw in the tutorial). The low-cost and ease of functionality made it best known as a good computer for the first-timers in the general public. However, weaknesses did exist—the manuals were noted for referring to other manuals that cost extra money to purchase. Also, according to an article in 1983’s InfoWorld, there was an early issue with the keyboard—it was too receptive at times and sometimes when typing certain letter patterns in rapid succession unwanted letters would appear—for example “the” apparently brought up a “j.” 
 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
+Notes: I love the reset key—we need to bring this back! To reset my mac now I have to press some combination of keys that I can never remember and have to use my phone to look up because the computer is not working. One key specifically to do this would work like a dream.
+
 
 ====================================================================================================================
 MACINTOSH SE
 
-•	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+•	What year was it made? 1987
+•	What operating system does it run? The original operating system is Mac OS: System 4.1, but the computer will run MacOS: Systems 2.0-7.01. 
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). In 1987, the Macintosh SE cost $3,700, but today that would be adjusted to about $7,749.97. I found 37 different Macintosh SEs listed on eBay, ranging from $25.49 all the way to $1,300 for one that comes with its original keyboard, mouse, and a lot of software. There were none listed on Craigslist however. 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+Some strengths of Macintosh SE included a longer life span because of the incorporation of a cooling fan in the computer. Other strengths included its compact shape and packaging as well as its internal floppy disk drive. This model also made use of a keyboard and mouse interface (which seeing the Kaypro, is all the more notable now). However, the SE didn’t come bundled with a keyboard. Also, it was a little chunkier than other compact computers that had preceded it—weighing a half-pound more. This model is best known for its long life span and incorporation of multiple inputs for extensions as well as its internal floppy disk drives. 
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
-
+There is a plethora of other applications on this Mac, including notepad, a puzzle, an alarm clock, a calculation, a control panel, key caps, and scrapbook. There is also a copy of We Descend by Bill Bly and Miss Sing. 
+Extra Notes: The little markers on the keyboard for your hands are on the D and K, which is so different from my current keyboard that it actually made it hard for me to type because I kept misplacing my hands. 
+There actually weren’t many noticeable differences for me expect maybe how many inputs there were—my mac air is very minimal and seeing the compact computer’s internal floppy drives made me reminisce for internal disk drives and the days when I could watch DVDs on my computer. 
 ===================================================================================================================
 VECTREX
 
-•	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+•	What year was it made? 1982
+•	What operating system does it run? MOS 6522 Versatile Interface Adapter
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). In 1982, the Vectrex retailed at $199; today it would cost $490.68 if it were adjusted for inflation. eBay had 8 different Vectrexes for sale ranging in price from $49 to $599 for a Vectrex with its original box and extra games. There were no Vectrexes for sale on Craigslist.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+One highlight of the Vectrex is its durability—it doesn’t have to be compatible with computers or televisions, so compared to many gaming counsels it doesn’t become outdated as quickly. Other highlights included the ease of use and design of the controller, as well as the well-designed games that mimicked the graphics of popular arcade games. 
 
 Turn it on (you must figure out how). Play MineStorm. Try another cartridge. Why do you think the designer’s would have opted for the “vector” graphics?
-
+The Vectrex went on to incorporate 3D imaging and more advanced graphics, which would have been made easier by using “vector” graphics, which as outlines of 2D images were easier to reproduce three dimensionally than pixelated raster graphics. Also, I think that the Vectrex was imitating popular arcade games that used vector graphics—the console has the feel of an at home arcade rather than just a computer game (from the controller to the counsel itself which was stand-alone), the graphics seem to compliment this. 
 ===================================================================================================================
 AMIGA
 
-•	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+•	What year was it made? !985
+•	What operating system does it run? Amiga OS
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). When it was released the Amiga cost $1,295, but today, adjusted for inflation, it would cost $2,863.74.  Two Amigas were listed for sale on eBay (both between $100 and $300), but neither included a monitor. There were no Amigas for sale on Craigslist. 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Amiga is best known for its ability to handle sophisticated graphics, including animated graphics, and games. A chipset that processes audio and visual data separately from the CPU allows the Amiga to run smoother graphics, audio, and animation than other models we’ve seen. The Amga was also reasonably priced and known as one of the first personal, multitasking computers. However, the downside to the ability to multitask is that the Amiga did not have the memory to restore files if there was a sudden shutdown. Also, the Amiga was prone to crashing, which seems like a big weakness for consumers. 
 
 Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The Future Was Here.
+Notes: The Appetizer disk is funny—I was really amused by the paint functions like “Dots” that just seemed to show off the Amiga’s ability to create smooth animated graphics. The Amiga can do many things though: it has a notepad, a calculator, clock, work bench, and the appetizer disk allows the user to “paint,” “write,” create music, and a play a tile game. While The Future is Here really emphasizes the Amiga’s graphics, I was not so impressed I suppose not knowing enough to be impressed really. Instead, I noticed most how this computer seemed to function like my computer, except with the addition of needing to use floppy disks to access most things. Though it was nice that there was some basic functionality beyond what was made accessible through the floppies. 
 
 
 ===================================================================================================================
 MACINTOSH IIci
 
-•	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+•	What year was it made? 1989
+•	What operating system does it run? MAC OS 6.04-7.1.1
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). Originally, the Macintosh IIci cost $6,269, today that would be about $12,029.65. There were four separate Macintosh IIci computers (including monitors) for sale on eBay, and their prices varied from $49 to $549 for working models with software. I once again had no luck with Craigslist.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+Historical strengths of this Mac include its computing power, which was apparently 56% more powerful than its predecesers as it was the first to reach the 16MHz mark according to Dan Knight’s “Was the Macintosh IIci the Best Mac Ever?.” Additionally, the IIci was known for being an durable personal computer with excellent graphics, and many enthusiasts seem to enjoy the ability to add extensions and cache cards to the Mac to make certain upgrades. One downside of this Mac, however is that it did not have a built in display, and it’s expandability (ability to add on extensions) seems to have meant that different users had vastly different experiences. 
 
 Turn it on (you must figure out how). Open WordPerfect. Open MS Word. Try typing a simple document in each. Which do you like better, and why? Open MacPaint. Try drawing something. (You don’t need to save any of your work from these applications.) What else is on this Mac? What can you learn about its past user(s)?
-
+I absolutely prefer Microsoft Word to WordPerfect—I love that Word makes it so much easier to insert tables/pictures/drawings into your documents than WordPerfect. I even miss that MS Paint use to pop open and integrate with Word to make drawing simple shapes pretty easy. I also like that the icons are more intuitive and extensive in Microsoft Word, so that there feels like there is more shortcuts and better ease of use. Icons for small caps, cut, and paste are incredibly helpful when you’re not sure what keyboard shortcuts are available. WordPerfect worked fine, but it just didn’t seem to have as many options that were as easy to use (and making tables was nearly impossible for me to understand). 
+Other things on this Mac included MacDraw, Excel, PageMager, FileMaker, and Publishers. From the Excel files, I would say it’s past user worked for the University of Maryland and was helping to record statistics about the campus including student enrollment and class placement. The additions of PageMaker and FileMaker also make me think they were involved in campus publications of some sort. 
+Other Notes: I love that we finally have the power button right on the keyboard again. I was missing the ease of this turning on the older computers. This computer is the first one to really remind me of my own computer, but of course like the Amiga it has drives whereas my Air really has no places to input drives but the USBs (so not so many videos for me). Also I loved the idea of MacDraw—I don’t think my Mac now has a space for that. 
